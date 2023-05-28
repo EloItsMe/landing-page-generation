@@ -4,7 +4,7 @@ This generator is for generate all files you nedd for create a landing page with
 
 # Result
 
-![screenshot](url "https://drive.proton.me/urls/ERV9EDMKF4#oVqZi2IBtBzE")
+![screenshot]("https://drive.proton.me/urls/ERV9EDMKF4#oVqZi2IBtBzE")
 
 ## Installation
 
