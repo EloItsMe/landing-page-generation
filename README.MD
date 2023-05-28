@@ -2,6 +2,9 @@
 
 This generator is for generate all files you nedd for create a landing page with html, scss & javascript
 
+# Result
+
+![screenshot](url "https://drive.proton.me/urls/ERV9EDMKF4#oVqZi2IBtBzE")
 
 ## Installation
 
