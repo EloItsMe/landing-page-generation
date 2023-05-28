@@ -1,6 +1,6 @@
 # Landing page generator
 
-This generator is for generate all files you nedd for create a landing page with html, scss & javascript
+This generator is for generate all files you need for create a landing page with html, scss & javascript
 
 # Result
 
