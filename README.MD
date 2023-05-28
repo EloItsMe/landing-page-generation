@@ -7,7 +7,7 @@ This generator is for generate all files you nedd for create a landing page with
 
 ```bash
   git clone https://github.com/EloItsMe/landing-page-generation.git
-  alias lgp="sh $PWD/landing-page-generation/script.sh"
+  alias lpg="sh $PWD/landing-page-generation/script.sh"
 ```
 
 ## Start
