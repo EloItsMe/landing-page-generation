@@ -4,7 +4,7 @@ This generator is for generate all files you nedd for create a landing page with
 
 # Result
 
-![screenshot]("https://drive.proton.me/urls/ERV9EDMKF4#oVqZi2IBtBzE")
+![Screenshot 2023-05-28 at 17 04 39](https://github.com/EloItsMe/landing-page-generation/assets/125091698/f7fc5315-a667-4543-9891-73bc639f169a)
 
 ## Installation
 
